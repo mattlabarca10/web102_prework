@@ -23,11 +23,7 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-<<<<<<< HEAD
-<img src='https://giphy.com/embed/SwUcxquejOHU4GBXnR' title='Video Walkthrough' width='' alt='Video Walkthrough' />
-=======
-<img src='<div style="width:100%;height:0;padding-bottom:49%;position:relative;"><iframe src="https://giphy.com/embed/SwUcxquejOHU4GBXnR" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/SwUcxquejOHU4GBXnR">via GIPHY</a></p>' title='Video Walkthrough' width='' alt='Video Walkthrough' />
->>>>>>> b013de8341ee93160b43060f897bdf559605146e
+<img src='https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGlzNzFwN25ibDVzeWg3OHhwNThubWEwOXh6MjFvY2FqOWw2bGM3ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SwUcxquejOHU4GBXnR/giphy.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with LiceCap  
